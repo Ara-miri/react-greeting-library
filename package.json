@@ -1,6 +1,6 @@
 {
   "name": "react-greeting-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/Greeting.js",
   "peerDependencies": {
@@ -24,5 +24,9 @@
     "@babel/core": "^7.24.3",
     "@babel/preset-env": "^7.24.3",
     "@babel/preset-react": "^7.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ara-miri/react-greeting-library.git"
   }
 }
